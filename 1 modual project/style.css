@@ -1,0 +1,102 @@
+
+    html {
+        background: url(img/resturant.jpg) no-repeat center fixed;
+        background-size: cover;
+    }
+#body {
+
+    width: 600px;
+    color: #000000;
+    margin: auto;
+    padding: auto;
+    text-align: center; 
+    background-color: #ffffff;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 25px;
+
+}#order{
+    width: 600px;
+    margin: auto;
+    padding: auto;
+    text-align: center; 
+    background-color: #665656;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 25px;
+}
+    img {
+        width: 250px;
+        display: block;
+        margin: 0 auto;
+    }
+    
+/* headings */
+h2,h3,h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+  font-size: 80px;
+}
+h2 {
+    font-size: xx-large;
+    padding: 50px;
+}
+h3{
+    font-size: x-large;
+}
+p{
+font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    text-align: left;
+}
+
+
+
+
+
+
+/* table */
+table {
+    margin: auto;
+    width: 80%;
+ border-collapse: collapse;
+ font-family: sans-serif;
+padding: 20px; 
+
+
+} 
+
+#left{
+    text-align: left;
+}
+th,td {
+    margin: auto;
+    border: 1px solid #dddddd3f; padding: 8px;
+ 
+}
+th {
+    background-color: #f2f2f2;
+}
+
+.shaded{
+    background-color: #423a3a;
+} 
+
+    input{
+        width: 110px;
+   
+    }
+
+        #background {
+            background-color: #4b4141;
+            padding-left: 0px;
+        }
+
+        #order-table {
+            background-color: #00000000;
+            text-align: center;
+            padding-bottom: 40px;
+            color: black;
+        }
